@@ -1,5 +1,6 @@
 # Personal-Portfolio
-In this project, a personal portfolio is developed using HTML, CSS and JavaScript.<br>
+In this project, a personal portfolio website is developed using HTML, CSS and JavaScript.
+
 **Website Link -** https://dhruv-portfolio.pages.dev/
 
 ## Sections
